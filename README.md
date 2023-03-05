@@ -1,4 +1,4 @@
-# Android fundamentals 01.2 Part B: The layout editor
+# Android fundamentals 01.2 Part B and 01.4
 
 ### Answer these questions
 
@@ -43,5 +43,34 @@ Which of the following techniques is more efficient to use within this handler t
 
 * Use findViewById to find the Count Button. Assign the result to a View variable, and then use setBackgroundColor().
 * - [x] Use the view parameter that is passed to the click handler with setBackgroundColor(): view.setBackgroundColor()
+
+
+#### Question 1
+
+Question 1
+Within an Android Studio project, what menu command can you use to open the list of sample apps? Choose one:
+
+* File > Open
+* - [x] File > New > Import Sample
+* File > New > Import Module
+* File > New > Import Project
+
+#### Question 2
+
+Which buttons does the Basic Activity template provide as part of the UI? Choose two:
+
+* Navigation buttons
+* - [x] Options menu overflow button
+* - [x] Floating action button
+* Button class button with the text "Button"
+
+#### Question 3 
+
+Which source of documentation is the official documentation for Android developers? Choose one:
+
+* stackoverflow.com
+* officialandroid.blogspot.com
+* - [x] developer.android.com
+* github.com
 
 # Thank You.
